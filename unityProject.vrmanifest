@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.campus.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "C:\\Users\\i4Ds VR User\\Desktop\\campus\\actions.json",
+      "action_manifest_path": "C:\\Users\\i4Ds VR User\\Desktop\\campus-vr-ip5\\actions.json",
       "strings": {
         "en_us": {
           "name": "campus [Testing]"

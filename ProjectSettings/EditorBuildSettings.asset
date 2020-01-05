@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Intro.unity
+    guid: 5e6c2b68d819ed24ba0c9ec6cef98549
+  - enabled: 1
     path: Assets/Scenes/iCompetence-Classroom.unity
     guid: 3fc22827bdcb04d4e82f1a2fa38c2974
   - enabled: 1
